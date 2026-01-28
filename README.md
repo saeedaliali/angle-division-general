@@ -18,11 +18,12 @@ This interactive model accompanies the following research papers (published on Z
 2.  **[Angle Trisection into n Equal Parts Using the Intersection of a Parabolic Curve and a Circular Arc](https://doi.org/10.5281/zenodo.18391198)** - Generalization to *n*-section. 
 3.  **[Dividing an Angle into 3 or n Equal Parts Using Euclidean Tools](https://doi.org/10.5281/zenodo.18383478)** - *(Coming Soon)* A classical construction approach. 
 
+
 ## 🔍 Features
-- **Step-by-Step Visualization:** Follow each geometric construction step interactively.
-- **Dynamic Adjustment:** Modify the initial angle and see the trisection update in real time.
-- **High Accuracy:** The model implements the exact algebraic formulation from the paper.
-- **Educational Tool:** Ideal for teachers, students, and enthusiasts to explore classical geometry problems.
+- **Generalized Construction:** Adjust the number of divisions (*n*) and observe the adaptive quasi-parabolic curve.
+- **Dynamic Control:** Modify both the original angle (*α*) and the division count (*n*) in real-time.
+- **Visual Proof:** Watch how the geometric relationship `PF = (n-1)·PH` is maintained for any *n*.
+- **Educational Focus:** Ideal for understanding the transition from specific trisection to general *n*-section.
 
 ## 🛠️ How to Use
 1.  Open the **Live Demo** link above.
